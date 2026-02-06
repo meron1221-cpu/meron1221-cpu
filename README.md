@@ -1,18 +1,103 @@
-# 💫 About Me:
-### **👋 Hey there!  <br><br>🚀 **About Me:**  <br>🎓 I’m a **4th-year Software Engineering student** at **Debre Berhan University**.  <br>💻 Currently, I’m on ** internship**, gaining hands-on experience in real-world projects.  <br>🌟 Passionate about **full-stack development**, I’m diving deep into **React** ⚛️ and **Node.js** 🟢 to build amazing web applications.  <br><br>🔎 Always exploring new technologies, solving problems, and improving my skills one commit at a time!  <br><br>📌 **Let's connect and build something great together!** 🚀  <br><br>---<br><br>
 
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@meri-23.bsky.social) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/meron-nisrane) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Meron-Nisrane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meronnisrane@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=meron1221-cpu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=meron1221-cpu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meron1221-cpu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=meron1221-cpu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+## 👋 Hello, I'm Meron Nisrane
+
+🎓 **4th Year Software Engineering Student** – Debre Berhan University
+💼 Currently completing my **Software Development Internship**
+💻 Passionate **Full-Stack Developer** focused on building scalable and user-friendly web applications
+
+---
+
+### 🚀 Professional Summary
+
+I am a motivated and detail-oriented software engineering student with a strong interest in modern web technologies. I specialize in developing full-stack applications using **React** and **Node.js**, and I continuously work on improving my problem-solving and system design skills.
+
+I enjoy transforming ideas into functional digital solutions and learning new technologies that enhance my development workflow.
+
+---
+
+### 🌱 Current Focus
+
+* ⚛️ Frontend Development using **React**
+* 🟢 Backend Development using **Node.js & Express**
+* 🗄️ Database Design and Integration
+* 🛠️ Building scalable and maintainable applications
+* 📚 Continuous learning and real-world project development
+
+---
+
+### 🎯 Career Goal
+
+To become a professional full-stack software engineer who builds impactful, efficient, and user-centered applications.
+
+---
+
+## 🌐 Connect With Me
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/@meri-23.bsky.social)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://reddit.com/user/meron-nisrane)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge\&logo=codepen\&logoColor=white)](https://codepen.io/@Meron-Nisrane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:meronnisrane@gmail.com)
+
+---
+
+# 💻 Technical Skills
+
+### 👨‍💻 Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+
+---
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+---
+
+### 🗄️ Database & Tools
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+---
+
+### 🎨 Design & Deployment
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+---
+
+### 🔧 Development & Hardware
+
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge\&logo=cisco\&logoColor=black)
+
+---
+
+# 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=meron1221-cpu\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=meron1221-cpu\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meron1221-cpu\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+---
+
+# 🔥 Visitor Count
+
+[![](https://visitcount.itsvg.in/api?id=meron1221-cpu\&icon=0\&color=0)](https://visitcount.itsvg.in)
+
+---
