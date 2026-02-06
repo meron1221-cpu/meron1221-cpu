@@ -96,8 +96,3 @@ To become a professional full-stack software engineer who builds impactful, effi
 
 ---
 
-# 🔥 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=meron1221-cpu\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
----
