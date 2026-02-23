@@ -1,5 +1,4 @@
 
-
 ---
 
 # 💫 About Me
@@ -15,7 +14,6 @@
 ### 🚀 Professional Summary
 
 I am a motivated and detail-oriented software engineering student with a strong interest in modern web technologies. I specialize in developing full-stack applications using **React** and **Node.js**, and I continuously work on improving my problem-solving and system design skills.
-
 I enjoy transforming ideas into functional digital solutions and learning new technologies that enhance my development workflow.
 
 ---
